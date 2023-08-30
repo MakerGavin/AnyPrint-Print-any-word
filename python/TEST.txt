@@ -1,0 +1,1 @@
+AnyPrint is a new application on Cloud Printer. that can print any text from PC. It can also be accessed through a browser to print text from any device.
